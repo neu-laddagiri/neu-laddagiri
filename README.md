@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Lokesh Addagiri 👋
 
-<!--
-**neu-laddagiri/neu-laddagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Science + Business Administration
+Northeastern University
 
-Here are some ideas to get you started:
+Building at the intersection of data, business, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @lokeshaddagiri
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently Working On
+
+- Personal portfolio website
+- Data science project portfolio
+- Business analytics dashboards
+- Coursework documentation system
+- Study abroad project archive (Greece)
+
+---
+
+### Academic Focus
+
+- Data Science
+- Business Analytics
+- Statistics
+- Finance
+- Project Management
+- International Business
+
+---
+
+### Featured Work
+
+#### Portfolio Website
+Centralized archive of coursework, reports, presentations, and technical projects.
+
+#### Smart Health Monitoring System (SHMS)
+Hospital implementation project including:
+
+- WBS development
+- Gantt scheduling
+- Stakeholder management
+- Risk analysis
+- Resource planning
+
+#### Business Statistics Research Project
+Regression analysis and statistical modeling using SPSS.
+
+---
+
+### Technical Skills
+
+**Programming**
+- Python
+- SQL
+- R
+- Java
+
+**Data**
+- Pandas
+- NumPy
+- SPSS
+- Excel
+
+**Visualization**
+- Tableau
+- Power BI
+- Matplotlib
+
+**Web**
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+---
+
+### Connect
+
+- LinkedIn (coming soon)
+- Portfolio Website (in development)
+
+---
+
+> Building projects that combine analytics, business strategy, and technology.
