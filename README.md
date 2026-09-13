@@ -1,230 +1,54 @@
-# Hi, I'm Lokesh Addagiri 👋
+# Hi, I'm Lokesh 👋
 
-### Data Science & Business Administration Student @ Northeastern University Honors Program
+**Data Science & Business Administration @ Northeastern University** · John Martinson Honors Program · Class of 2029
 
-Building at the intersection of **data science, business, finance, and software engineering.**
+I build things that sit between data, business, and software. Currently looking for a **January – June 2027 co-op**.
 
-🌐 **Portfolio:** https://lokeshaddagiri.com
-
----
-
-## About Me
-
-I'm currently pursuing a combined major in **Data Science & Business Administration** at **Northeastern University**, where I'm building technical and analytical skills through coursework, personal projects, and hands-on software development.
-
-My interests include:
-
-- 📊 Data Science & Machine Learning
-- 💼 Business Analytics
-- 💰 Finance
-- 📈 Quantitative Analysis
-- 🤖 Artificial Intelligence
-- 🌐 Full-Stack Development
-- 🏀 Sports Analytics
-
-I enjoy building projects that combine technical depth with practical business applications.
+🌐 **[lokeshaddagiri.com](https://lokeshaddagiri.com)** — portfolio, full coursework archive, and project write-ups
 
 ---
 
-# Featured Projects
+## What I'm building
 
-## 🌐 Personal Portfolio Website
+### 🃏 [CardEdge](https://github.com/neu-laddagiri/cardedge)
+A poker and blackjack decision trainer. Monte Carlo equity simulation runs in cancellable Web Workers and reports 95% confidence intervals across three precision modes, with account-backed training history and a profit/loss ledger.
 
-A modern Apple-inspired portfolio built from scratch to document my academic journey, technical projects, and professional development.
+**▶️ [Try it live](https://cardedge-five.vercel.app)**
+`Next.js 16` `React 19` `TypeScript` `Supabase` `Vitest` `GitHub Actions`
 
-**Highlights**
+### 📱 [IG Wrapped](https://github.com/neu-laddagiri/ig-wrapped)
+A privacy-first Instagram export analyzer. Your ZIP is parsed locally in the browser — nothing uploads. It builds a unified social graph, scores relationship strength and privacy exposure, and renders day-by-hour activity heatmaps.
 
-- Next.js 15
-- TypeScript
-- React
-- Tailwind CSS
-- Responsive design
-- Interactive coursework archive
-- Embedded reports & presentations
-- SEO optimization
-- Google Search Console
-- Cloudflare
-- Vercel deployment
+**▶️ [Try the demo](https://ig-wrapped-snowy.vercel.app)** — click *Try Demo Data* to explore the full dashboard with synthetic data, no account needed
+`Next.js` `TypeScript` `JSZip` `Recharts` `Supabase`
 
-🔗 https://lokeshaddagiri.com
+### 🏈 [NFL Salary vs. Performance](https://github.com/bclynde/nfl-salary-performance)
+Ten seasons of NFL salary allocation (2013–2022) modeled against team results, with an interactive dashboard. Four-person project built through Northeastern's DATA Club.
+`Python` `Machine Learning` `Data Visualization`
 
----
+### 🏦 Banking Fraud & Corporate Misconduct
+Pulled roughly 35,000 consumer complaints through the CFPB API to test whether federal enforcement actions actually change bank behavior. Four-person capstone; my first end-to-end data science pipeline.
 
-## 📱 Instagram Wrapped
+**📄 [Read the report](https://www.lokeshaddagiri.com/documents/ds2500-banking-fraud-final-report.pdf)**
+`Python` `Pandas` `REST APIs` `Matplotlib`
 
-Privacy-first analytics dashboard that transforms Instagram data exports into an interactive year-in-review experience.
-
-**Built with**
-
-- Next.js
-- TypeScript
-- Local data processing
-- Interactive visualizations
+### 🌐 [Portfolio Site](https://github.com/neu-laddagiri/lokesh-website)
+Built from scratch to document every course, project, and report. Interactive coursework archive with embedded PDFs, SEO, and a custom domain on Cloudflare.
+`Next.js 15` `TypeScript` `Tailwind` `Vercel`
 
 ---
 
-## 🃏 CardEdge
+## Tech
 
-Poker & Blackjack probability assistant featuring real-time odds calculations and premium casino-inspired UI.
+**Languages** — Python · SQL · TypeScript · JavaScript · Java
+**Data** — Pandas · NumPy · Matplotlib · Recharts · SPSS · REST APIs · Monte Carlo simulation
+**Web** — Next.js · React · Tailwind · Supabase · PostgreSQL · Vercel
+**Tooling** — Git · GitHub Actions · Vitest
 
-**Built with**
-
-- Next.js
-- TypeScript
-- React
-- Probability calculations
+Right now I'm taking **Introduction to Databases (CS 3200)**, **Advanced Programming with Data (DS 3500)**, and **Mathematical Foundations of AI (DS 3000)**.
 
 ---
 
-## 🏈 NFL Salary Performance Dashboard
+## Reach me
 
-Machine learning and analytics project exploring NFL player performance relative to salary.
-
-Focus areas:
-
-- Data visualization
-- Statistical analysis
-- Performance metrics
-- Python
-
----
-
-# Academic Portfolio
-
-My portfolio website includes dedicated pages documenting major coursework completed at Northeastern.
-
-### Business Statistics (MGSC 2301)
-
-- Regression Analysis
-- Statistical Modeling
-- SPSS
-- Research Project
-- Data Visualization
-
----
-
-### Project Management (MG 4057)
-
-- Microsoft Project
-- WBS
-- Gantt Charts
-- Stakeholder Analysis
-- Risk Management
-- Healthcare Implementation Case Study
-
----
-
-### Financial Accounting (AF 3116)
-
-- Financial Statement Analysis
-- SEC 10-K Analysis
-- Excel Financial Modeling
-- Ratio Analysis
-- Corporate Valuation
-
----
-
-### Calculus for Business & Economics (MATH 1231)
-
-- Optimization
-- Business Calculus
-- Mathematical Modeling
-
----
-
-### Computer Science 1200 *(Coming Soon)*
-
-- Git
-- GitHub
-- Version Control
-- Software Development Foundations
-
----
-
-# Technical Skills
-
-## Programming
-
-- Python
-- Java
-- SQL
-- TypeScript
-- JavaScript
-- HTML
-- CSS
-
----
-
-## Data Science
-
-- Pandas
-- NumPy
-- SPSS
-- Statistical Analysis
-- Regression
-- Data Visualization
-
----
-
-## Business
-
-- Financial Analysis
-- Business Analytics
-- Project Management
-- Supply Chain
-- Risk Analysis
-
----
-
-## Web Development
-
-- React
-- Next.js
-- Tailwind CSS
-- Git
-- GitHub
-- Vercel
-- Cloudflare
-
----
-
-## Currently Learning
-
-- Machine Learning
-- Data Engineering
-- Cloud Computing
-- Advanced React
-- Software Engineering
-- Artificial Intelligence
-
----
-
-# Goals
-
-Over the next few years I'm working toward building a portfolio that demonstrates strong technical ability through:
-
-- Data Science
-- AI
-- Analytics
-- Finance
-- Software Engineering
-- Business Strategy
-
-while preparing for Northeastern co-op opportunities.
-
----
-
-# Connect With Me
-
-🌐 Website  
-https://lokeshaddagiri.com
-
-💼 LinkedIn  
-https://linkedin.com/in/lokeshaddagiri
-
-📧 Email  
-addagiri.l@northeastern.edu
-
----
-
-> *"Turning data into decisions through technology, analytics, and business strategy."*
+📧 [addagiri.l@northeastern.edu](mailto:addagiri.l@northeastern.edu) · 💼 [LinkedIn](https://linkedin.com/in/lokeshaddagiri) · 🌐 [Portfolio](https://lokeshaddagiri.com)
